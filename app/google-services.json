@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163557310161",
+    "firebase_url": "https://mockfirebasedata.firebaseio.com",
+    "project_id": "mockfirebasedata",
+    "storage_bucket": "mockfirebasedata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163557310161:android:ee788042d4d2be8de90ff0",
+        "android_client_info": {
+          "package_name": "com.example.mockfirebasedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163557310161-t2mq68i3qa2r7e5rcgpgj8iqgf9jcu13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mockfirebasedata",
+            "certificate_hash": "a941ddb78d4b60c010c57edf1e4cdb705e222fd8"
+          }
+        },
+        {
+          "client_id": "163557310161-ifmov8res4otcc3asl0vqf1opf9m3jet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5-TAjhoW8ACHJ3cC6jXdOBLTew6PjaeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163557310161-ifmov8res4otcc3asl0vqf1opf9m3jet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
